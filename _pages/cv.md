@@ -6,10 +6,10 @@ nav: true
 nav_order: 3
 ---
 
-Download: [anuj_resume.pdf]({{ '/assets/pdf/resume.pdf' | relative_url }})
+Download: [anuj_resume.pdf]({{ '/assets/pdf/anuj_resume.pdf' | relative_url }})
 
 <iframe
-  src="{{ '/assets/pdf/resume.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/anuj_resume.pdf' | relative_url }}"
   width="100%"
   height="1000px"
   style="border: 1px solid #ddd; border-radius: 8px;"
