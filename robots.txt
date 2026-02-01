@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://apteanuj.github.io/al-folio/sitemap.xml
+Sitemap: https://apteanuj.github.io/sitemap.xml
