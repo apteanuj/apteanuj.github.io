@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-18'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Conjectured Bounds for 2-Local Hamiltonians via Token Graphs
     year: '2025'
   oX_oa18AAAAJ:5nxA0vEk-isC:
-    citations: 3
-    title: Iterative Interpolation Schedules for Quantum Approximate Optimization Algorithm
+    citations: 4
+    title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 2
-    title: Improved Algorithms for Quantum MaxCut via Partially Entangled Matchings
+    citations: 3
+    title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
     citations: 4
@@ -33,6 +33,10 @@ papers:
     citations: 1
     title: Non-convex optimization by Hamiltonian alternation
     year: '2022'
+  oX_oa18AAAAJ:ULOm3_A8WrAC:
+    citations: 6
+    title: Proceedings of the 2022 IEEE International Conference on Quantum Computing and Engineering (QCE)
+    year: '2022'
   oX_oa18AAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Exponentially Slow Thermalization from Weak Gravity
@@ -42,15 +46,19 @@ papers:
     title: Obstructions to gapped phases from noninvertible symmetries
     year: '2023'
   oX_oa18AAAAJ:Y0pCki6q_DkC:
-    citations: 22
+    citations: 23
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
+  oX_oa18AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Quantum Approximate Optimization of Integer Graph Problems and Surpassing Semidefinite Programming for Max-k-Cut
+    year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
-    citations: 42
+    citations: 41
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
-    citations: 15
+    citations: 14
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
@@ -62,7 +70,7 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. I. Inspiral, transition, and plunge trajectories using a generalized Ori-Thorne procedure
     year: '2019'
   oX_oa18AAAAJ:u-x6o8ySG0sC:
-    citations: 85
+    citations: 86
     title: Learning about black hole binaries from their ringdown spectra
     year: '2019'
   oX_oa18AAAAJ:u5HHmVD_uO8C:
@@ -70,6 +78,6 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
-    citations: 18
+    citations: 19
     title: Quantum alternating operator ansatz (QAOA) beyond low depth with gradually changing unitaries
     year: '2023'
