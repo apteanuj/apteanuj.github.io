@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-23'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -54,15 +54,15 @@ papers:
     title: Quantum Approximate Optimization of Integer Graph Problems and Surpassing Semidefinite Programming for Max-k-Cut
     year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
-    citations: 41
+    citations: 42
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
-    citations: 14
+    citations: 15
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
-    citations: 0
+    citations: 1
     title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
     year: '2025'
   oX_oa18AAAAJ:qjMakFHDy7sC:
