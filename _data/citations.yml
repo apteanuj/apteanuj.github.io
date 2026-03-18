@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-18'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Conjectured Bounds for 2-Local Hamiltonians via Token Graphs
     year: '2025'
   oX_oa18AAAAJ:5nxA0vEk-isC:
-    citations: 4
+    citations: 5
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -42,15 +42,19 @@ papers:
     title: Exponentially Slow Thermalization from Weak Gravity
     year: '2024'
   oX_oa18AAAAJ:WF5omc3nYNoC:
-    citations: 95
+    citations: 96
     title: Obstructions to gapped phases from noninvertible symmetries
     year: '2023'
   oX_oa18AAAAJ:Y0pCki6q_DkC:
-    citations: 23
+    citations: 24
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
-  oX_oa18AAAAJ:Zph67rFs4hoC:
+  oX_oa18AAAAJ:YOwf2qJgpHMC:
     citations: 0
+    title: Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem
+    year: '2026'
+  oX_oa18AAAAJ:Zph67rFs4hoC:
+    citations: 2
     title: Quantum Approximate Optimization of Integer Graph Problems and Surpassing Semidefinite Programming for Max-k-Cut
     year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
@@ -62,7 +66,7 @@ papers:
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
     year: '2025'
   oX_oa18AAAAJ:qjMakFHDy7sC:
@@ -78,6 +82,6 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
-    citations: 19
+    citations: 20
     title: Quantum alternating operator ansatz (QAOA) beyond low depth with gradually changing unitaries
     year: '2023'
