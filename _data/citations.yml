@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-20'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Conjectured Bounds for 2-Local Hamiltonians via Token Graphs
     year: '2025'
   oX_oa18AAAAJ:5nxA0vEk-isC:
-    citations: 5
+    citations: 6
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 4
+    citations: 5
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Topological signatures in nodal semimetals through neutron scattering
     year: '2022'
   oX_oa18AAAAJ:KlAtU1dfN6UC:
-    citations: 1
+    citations: 2
     title: A 0.8395-approximation algorithm for the EPR problem
     year: '2025'
   oX_oa18AAAAJ:MXK_kJrjxJIC:
@@ -42,7 +42,7 @@ papers:
     title: Exponentially Slow Thermalization from Weak Gravity
     year: '2024'
   oX_oa18AAAAJ:WF5omc3nYNoC:
-    citations: 96
+    citations: 97
     title: Obstructions to gapped phases from noninvertible symmetries
     year: '2023'
   oX_oa18AAAAJ:Y0pCki6q_DkC:
@@ -62,7 +62,7 @@ papers:
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
-    citations: 16
+    citations: 17
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
@@ -82,6 +82,6 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
-    citations: 21
+    citations: 23
     title: Quantum alternating operator ansatz (QAOA) beyond low depth with gradually changing unitaries
     year: '2023'
