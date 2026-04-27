@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -62,7 +62,7 @@ papers:
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
-    citations: 17
+    citations: 18
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
@@ -70,15 +70,15 @@ papers:
     title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
     year: '2025'
   oX_oa18AAAAJ:qjMakFHDy7sC:
-    citations: 81
+    citations: 82
     title: Exciting black hole modes via misaligned coalescences. I. Inspiral, transition, and plunge trajectories using a generalized Ori-Thorne procedure
     year: '2019'
   oX_oa18AAAAJ:u-x6o8ySG0sC:
-    citations: 87
+    citations: 88
     title: Learning about black hole binaries from their ringdown spectra
     year: '2019'
   oX_oa18AAAAJ:u5HHmVD_uO8C:
-    citations: 93
+    citations: 94
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
