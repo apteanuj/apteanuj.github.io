@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 4
@@ -25,6 +25,10 @@ papers:
     citations: 3
     title: A 0.8395-approximation algorithm for the EPR problem
     year: '2025'
+  oX_oa18AAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
+    year: '2026'
   oX_oa18AAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: Deep Learning and Non-Invertible Symmetries in Gauge Theories
@@ -78,15 +82,19 @@ papers:
     title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
     year: '2025'
   oX_oa18AAAAJ:qjMakFHDy7sC:
-    citations: 84
+    citations: 83
     title: Exciting black hole modes via misaligned coalescences. I. Inspiral, transition, and plunge trajectories using a generalized Ori-Thorne procedure
     year: '2019'
+  oX_oa18AAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: Improving Quantum Optimization with Warm Starts
+    year: '2026'
   oX_oa18AAAAJ:u-x6o8ySG0sC:
     citations: 89
     title: Learning about black hole binaries from their ringdown spectra
     year: '2019'
   oX_oa18AAAAJ:u5HHmVD_uO8C:
-    citations: 96
+    citations: 95
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
