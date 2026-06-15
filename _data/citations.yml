@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 6
     title: Conjectured Bounds for 2-Local Hamiltonians via Token Graphs
     year: '2025'
   oX_oa18AAAAJ:4TOpqqG69KYC:
     citations: 0
-    title: "The coalescence of two black holes generates gravitational waves that carry detailed information about the properties of those black holes and their binary configuration. The \u2026"
+    title: companion Letter
     year: '2019'
   oX_oa18AAAAJ:5nxA0vEk-isC:
     citations: 8
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 8
+    citations: 9
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -94,7 +94,7 @@ papers:
     title: Learning about black hole binaries from their ringdown spectra
     year: '2019'
   oX_oa18AAAAJ:u5HHmVD_uO8C:
-    citations: 95
+    citations: 96
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
