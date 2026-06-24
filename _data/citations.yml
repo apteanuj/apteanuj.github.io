@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -98,6 +98,6 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
-    citations: 25
+    citations: 26
     title: Quantum alternating operator ansatz (QAOA) beyond low depth with gradually changing unitaries
     year: '2023'
