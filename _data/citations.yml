@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 9
+    citations: 10
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -58,7 +58,7 @@ papers:
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
   oX_oa18AAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 2
     title: Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem
     year: '2026'
   oX_oa18AAAAJ:Zph67rFs4hoC:
@@ -70,7 +70,7 @@ papers:
     title: Anytime Training with Schedule-Free Spectral Optimization
     year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
-    citations: 43
+    citations: 44
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
@@ -98,6 +98,6 @@ papers:
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
-    citations: 26
+    citations: 27
     title: Quantum alternating operator ansatz (QAOA) beyond low depth with gradually changing unitaries
     year: '2023'
