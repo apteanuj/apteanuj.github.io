@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -38,7 +38,7 @@ papers:
     title: A Quadratic Speedup in the Optimization of Noisy Quantum Optical Circuits
     year: '2023'
   oX_oa18AAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: Non-convex optimization by Hamiltonian alternation
     year: '2022'
   oX_oa18AAAAJ:ULOm3_A8WrAC:
@@ -58,11 +58,11 @@ papers:
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
   oX_oa18AAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem
     year: '2026'
   oX_oa18AAAAJ:Zph67rFs4hoC:
-    citations: 2
+    citations: 3
     title: Quantum Approximate Optimization of Integer Graph Problems and Surpassing Semidefinite Programming for Max-k-Cut
     year: '2026'
   oX_oa18AAAAJ:_kc_bZDykSQC:
@@ -78,7 +78,7 @@ papers:
     title: Deep learning lattice gauge theories
     year: '2024'
   oX_oa18AAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 5
     title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
     year: '2025'
   oX_oa18AAAAJ:qjMakFHDy7sC:
