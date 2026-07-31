@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-31'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2025'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 10
+    citations: 11
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -22,7 +22,7 @@ papers:
     title: Topological signatures in nodal semimetals through neutron scattering
     year: '2022'
   oX_oa18AAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 5
     title: A 0.8395-approximation algorithm for the EPR problem
     year: '2025'
   oX_oa18AAAAJ:M3ejUd6NZC8C:
@@ -54,7 +54,7 @@ papers:
     title: Obstructions to gapped phases from noninvertible symmetries
     year: '2023'
   oX_oa18AAAAJ:Y0pCki6q_DkC:
-    citations: 26
+    citations: 27
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
   oX_oa18AAAAJ:YOwf2qJgpHMC:
@@ -70,7 +70,7 @@ papers:
     title: Anytime Training with Schedule-Free Spectral Optimization
     year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
-    citations: 44
+    citations: 45
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
