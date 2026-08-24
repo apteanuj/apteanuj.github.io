@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-24'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 7
@@ -14,11 +14,11 @@ papers:
     title: "The coalescence of two black holes generates gravitational waves that carry detailed information about the properties of those black holes and their binary configuration. The \u2026"
     year: '2019'
   oX_oa18AAAAJ:5nxA0vEk-isC:
-    citations: 9
+    citations: 10
     title: Iterative interpolation schedules for quantum approximate optimization algorithm
     year: '2026'
   oX_oa18AAAAJ:8k81kl-MbHgC:
-    citations: 12
+    citations: 13
     title: Improved algorithms for quantum maxcut via partially entangled matchings
     year: '2025'
   oX_oa18AAAAJ:IjCSPb-OGe4C:
@@ -58,7 +58,7 @@ papers:
     title: Embedding learning in hybrid quantum-classical neural networks
     year: '2022'
   oX_oa18AAAAJ:YOwf2qJgpHMC:
-    citations: 4
+    citations: 5
     title: Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem
     year: '2026'
   oX_oa18AAAAJ:Zph67rFs4hoC:
