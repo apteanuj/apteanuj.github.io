@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
     citations: 7
@@ -52,7 +52,7 @@ papers:
   oX_oa18AAAAJ:Wp0gIr-vW9MC:
     citations: 0
     title: Deep Learning and Non-Invertible Symmetries in Gauge Theories
-    year: Unknown Year
+    year: '2025'
   oX_oa18AAAAJ:Y0pCki6q_DkC:
     citations: 26
     title: Embedding learning in hybrid quantum-classical neural networks
@@ -74,7 +74,7 @@ papers:
     title: Scale Weight Decay and Train Better
     year: '2026'
   oX_oa18AAAAJ:d1gkVwhDpl0C:
-    citations: 46
+    citations: 47
     title: Topological singularity induced chiral Kohn anomaly in a Weyl semimetal
     year: '2020'
   oX_oa18AAAAJ:hqOjcs7Dif8C:
