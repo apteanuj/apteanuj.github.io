@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-07'
 papers:
   oX_oa18AAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 8
     title: Conjectured bounds for 2-local hamiltonians via token graphs
     year: '2025'
   oX_oa18AAAAJ:4DMP91E08xMC:
@@ -94,11 +94,11 @@ papers:
     title: Improving Quantum Optimization with Warm Starts
     year: '2026'
   oX_oa18AAAAJ:u-x6o8ySG0sC:
-    citations: 90
+    citations: 92
     title: Learning about black hole binaries from their ringdown spectra
     year: '2019'
   oX_oa18AAAAJ:u5HHmVD_uO8C:
-    citations: 97
+    citations: 98
     title: Exciting black hole modes via misaligned coalescences. II. The mode content of late-time coalescence waveforms
     year: '2019'
   oX_oa18AAAAJ:ufrVoPGSRksC:
